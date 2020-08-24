@@ -1,0 +1,30 @@
+/* Styling for HTML elements */
+
+
+body {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 25px;
+    /*line-height: 150%;*/
+    color: teal;
+    background: lightgrey;
+  }
+
+
+
+ .container-fluid {
+
+    background-color: lavender;
+    
+    }
+
+   
+
+  header {
+    background: lightgrey;
+  }
+
+
+  table    { border:ridge 10px black; background-color:#F6F6F6; color:darkgray; }
+  
+  
+  
